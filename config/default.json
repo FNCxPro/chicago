@@ -3,6 +3,5 @@
     "client_id": "default",
     "client_secret": "default",
     "token": "default"
-  },
-  "unconfigured": true
+  }
 }
